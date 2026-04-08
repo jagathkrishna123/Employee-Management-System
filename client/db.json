@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "email": "john@gmail.com"
+    }
+  ],
+  "attendance": [],
+  "leaves": [],
+  "employees": [
+    {
+      "id": "1",
+      "firstName": "James",
+      "lastName": "Thomas",
+      "phoneNumber": "1234567890",
+      "joinDate": "2023-01-15",
+      "bio": "Experienced Marketing specialist.",
+      "department": "Marketing",
+      "position": "Marketing Manager",
+      "basicSalary": "5000",
+      "allowances": "500",
+      "deductions": "200",
+      "workEmail": "james.thomas@example.com",
+      "systemRole": "Employee",
+      "temporaryPassword": "password123"
+    },
+    {
+      "id": "2",
+      "firstName": "Richard",
+      "lastName": "Robert",
+      "phoneNumber": "0987654321",
+      "joinDate": "2022-05-20",
+      "bio": "Software developer with a passion for clean code.",
+      "department": "Engineering",
+      "position": "Software Developer",
+      "basicSalary": "6000",
+      "allowances": "600",
+      "deductions": "300",
+      "workEmail": "richard.r@example.com",
+      "systemRole": "Employee",
+      "temporaryPassword": "password123"
+    },
+    {
+      "id": "3",
+      "firstName": "David",
+      "lastName": "Musk",
+      "phoneNumber": "1122334455",
+      "joinDate": "2021-11-10",
+      "bio": "Senior developer and tech lead.",
+      "department": "Engineering",
+      "position": "Software Developer",
+      "basicSalary": "7500",
+      "allowances": "800",
+      "deductions": "400",
+      "workEmail": "david.m@example.com",
+      "systemRole": "Employee",
+      "temporaryPassword": "password123"
+    },
+    {
+      "id": "4",
+      "firstName": "Alex",
+      "lastName": "Michael",
+      "phoneNumber": "5544332211",
+      "joinDate": "2024-02-01",
+      "bio": "Creative designer and analyst.",
+      "department": "Marketing",
+      "position": "Associate Business Analyst",
+      "basicSalary": "4500",
+      "allowances": "400",
+      "deductions": "150",
+      "workEmail": "alex.m@example.com",
+      "systemRole": "Employee",
+      "temporaryPassword": "password123"
+    }
+  ]
+}
