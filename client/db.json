@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "name": "John",
       "email": "john@gmail.com"
     }
@@ -72,6 +72,23 @@
       "workEmail": "alex.m@example.com",
       "systemRole": "Employee",
       "temporaryPassword": "password123"
+    },
+    {
+      "firstName": "test",
+      "lastName": "user1",
+      "phoneNumber": "+913456788888",
+      "joinDate": "2026-04-09",
+      "bio": "hi im test",
+      "department": "Finance",
+      "position": "Accountant",
+      "basicSalary": "10000",
+      "allowances": "1000",
+      "deductions": "498",
+      "workEmail": "testuser1@gmail.com",
+      "systemRole": "Employee",
+      "temporaryPassword": "111",
+      "id": "MhhF-NFjymI"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
